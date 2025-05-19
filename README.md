@@ -1,1 +1,1 @@
-this is my cv repository
+https://kseome.github.io/cv/cv
